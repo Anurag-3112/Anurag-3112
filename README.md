@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="Assets/image.gif" alt="Anurag Kumar" style="width:80%; max-width:1000px; min-width:300px;" />
 </p>
