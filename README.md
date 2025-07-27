@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/image.gif" alt="Anurag Kumar" width="100%" />
+  <img src="Assets/image.gif" alt="Anurag Kumar" width="600px" />
 </p>
 
 <!--
