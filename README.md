@@ -32,6 +32,12 @@
 
 ---
 
+## 📊 Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-3112&layout=compact&hide_border=true)
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 Email: [anuragkumar.dev@gmail.com](mailto:anuragkumar.dev@gmail.com)
