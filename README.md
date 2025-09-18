@@ -26,9 +26,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-3112&show_icons=true&theme=react" alt="Anurag's GitHub Stats" width="60%" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-3112&show_icons=true&theme=radical)
 
 ---
 
