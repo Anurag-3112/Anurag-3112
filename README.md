@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Kumar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner"/>
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="Assets/image.gif" width="600"/>
 </p>
 
