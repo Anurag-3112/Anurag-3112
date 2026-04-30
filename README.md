@@ -82,7 +82,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </p>
 
-## Languages Used
+## Technologies & Tools Used
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,git,github,vscode" />
