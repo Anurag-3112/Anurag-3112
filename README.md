@@ -1,30 +1,67 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Kumar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner"/>
+  <img src="Assets/image2_cropped.gif" width=100%"/>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="Assets/image.gif" width="1000"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=2000&color=000080&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Kumar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner"/>
 </p>
+
+<br>
+
+
+## About me 
+<p align="left">
+  <a href="https://linkedin.com/in/anurag-kumar-work">
+    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:kumar.anurag.connect@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Anurag-3112">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://twitter.com/_AnuragKumar__">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  
+  <a href="https://example.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://leetcode.com/_AnuragKumar_">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  
+  <a href="https://codeforces.com/profile/Anurag-3112">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  
+  <a href="https://orcid.org/0009-0004-2736-4792">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+</p>
+
+### Full-Stack Developer | MERN Stack | Problem Solver  ![](https://komarev.com/ghpvc/?username=Anurag-3112&color=blue)
+I’m a self-driven full-stack developer focused on building scalable, real-world applications.
+
+- Specializing in the MERN stack (MongoDB, Express, React, Node.js)
+- Currently deepening my expertise in backend architecture, APIs, and performance optimization
+- Actively building projects, including a full-stack hospital management system 
+- Passionate about writing clean, maintainable, and scalable code
+- Continuously learning new technologies and best practices
+
+I’m open to collaborating on real-world MERN projects and open-source contributions.
+Currently exploring scalable API design and production-grade deployment strategies.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </p>
 
-# Hi, I'm Anurag ![](https://komarev.com/ghpvc/?username=Anurag-3112&color=blue)
-## Full-Stack Developer | MERN Stack | Problem Solver
-
-- I’m a passionate and self-driven developer, exploring the full-stack ecosystem
-- Currently focused on **MERN Stack** (MongoDB, Express, React, Node.js)
-- Always learning new technologies, best practices & building side projects
-- I love solving real-world problems with clean, scalable code
-- I’m currently working on a full-stack hospital management project. [new project coming soon]
-- I’m currently learning advanced backend practices with **Node.js**, **MongoDB**, and **Express**
-- I’m looking to collaborate on real-world MERN stack projects or open-source initiatives
-- I’m looking for help with scalable API architecture and production deployment strategies
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
-</p>
 
 ## Technologies & Tools
 
@@ -68,7 +105,10 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anurag-3112&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-3112&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-3112&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/ width="100%">
@@ -98,9 +138,15 @@
 - 💼 GitHub: [@Anurag-3112](https://github.com/Anurag-3112)
 - 🌐 Portfolio: _Coming Soon_
 
+>  I believe in building useful projects before perfect ones.
 
-> ⚡ Fun Fact: I believe in building useful projects before perfect ones.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=000080&center=true&vCenter=true&width=600&lines=Code;Build;Innovate;Repeat;"/>
+</p>
 
 
 <!--
