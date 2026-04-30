@@ -8,11 +8,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=2000&color=000080&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Kumar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner"/>
 </p>
 
-<br>
 
-
-## About me 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/anurag-kumar-work">
     <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -44,6 +41,10 @@
   <a href="https://orcid.org/0009-0004-2736-4792">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </p>
 
 ### Full-Stack Developer | MERN Stack | Problem Solver  ![](https://komarev.com/ghpvc/?username=Anurag-3112&color=blue)
