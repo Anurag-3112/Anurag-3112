@@ -106,8 +106,8 @@ Currently exploring scalable API design and production-grade deployment strategi
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-3112&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-3112&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag-3112&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-3112&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
