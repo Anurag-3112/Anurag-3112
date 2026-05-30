@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=2000&color=000080&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Kumar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=2000&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Kumar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner"/>
 </p>
 
 
@@ -137,7 +137,7 @@ Currently exploring scalable API design and production-grade deployment strategi
 
 - 📧 Email: [kumar.anurag.connect@gmail.com](mailto:kumar.anurag.connect@gmail.com)
 - 💼 GitHub: [@Anurag-3112](https://github.com/Anurag-3112)
-- 🌐 Portfolio: _Coming Soon_
+- 🌐 Portfolio: [anuragkumar-portfolio.vercel.app](https://anuragkumar-portfolio.vercel.app)
 
 >  I believe in building useful projects before perfect ones.
 
@@ -146,7 +146,7 @@ Currently exploring scalable API design and production-grade deployment strategi
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=000080&center=true&vCenter=true&width=600&lines=Code;Build;Innovate;Repeat;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Code;Build;Innovate;Repeat;"/>
 </p>
 
 
