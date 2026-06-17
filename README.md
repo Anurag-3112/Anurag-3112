@@ -48,7 +48,7 @@
 </p>
 
 ### Full-Stack Developer | MERN Stack | Problem Solver  ![](https://komarev.com/ghpvc/?username=Anurag-3112&color=blue)
-I’m a self-driven full-stack developer focused on building scalable, real-world applications.
+I'm a Full-Stack Engineer focused on Backend Architecture, APIs, Scalability and Distributed Systems
 
 - Specializing in the MERN stack (MongoDB, Express, React, Node.js)
 - Currently deepening my expertise in backend architecture, APIs, and performance optimization
