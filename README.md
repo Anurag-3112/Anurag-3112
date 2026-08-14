@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="Assets/image2_cropped.gif" width=100%"/>
+  <img src="Assets/image2_cropped.gif" width=100%" />
 </p>
 
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=2000&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Kumar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=2000&color=79C0FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Anurag+Kumar;Full+Stack+Developer;MERN+Stack+Developer;DSA+Enthusiast;Open+Source+Learner" />
 </p>
+
 
 
 <p align="center">
@@ -47,7 +48,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </p>
 
-### Full-Stack Developer | MERN Stack | Problem Solver  ![](https://komarev.com/ghpvc/?username=Anurag-3112&color=blue)
+## Full-Stack Developer | MERN Stack | Problem Solver  ![](https://komarev.com/ghpvc/?username=Anurag-3112&color=blue)
 I'm a Full-Stack Engineer focused on Backend Architecture, APIs, Scalability and Distributed Systems
 
 - Specializing in the MERN stack (MongoDB, Express, React, Node.js)
@@ -63,6 +64,77 @@ Currently exploring scalable API design and production-grade deployment strategi
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </p>
 
+## Featured Projects
+
+### ReadyBuy — Enterprise MERN E-Commerce Platform
+
+A production-oriented full-stack e-commerce platform with a modular backend, role-based access control, caching, asynchronous messaging, and scalable media management.
+One of the primary goals of ReadyBuy is to demonstrate enterprise software architecture rather than just implementing CRUD operations.
+
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Redis` `RabbitMQ` `JWT` `Docker` `Cloudinary` `React Query` `Bootstrap`
+
+**[Live Demo](https://readybuy-six.vercel.app) · [Source Code](https://github.com/Anurag-3112/ReadyBuy-E-commerce)**
+
+---
+
+### Medicare — MERN Patient Management System
+
+A full-stack patient management and appointment scheduling platform designed to streamline doctor-patient workflows, authentication, scheduling, and medical record management.
+
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB Atlas` `Mongoose` `JWT` `Google OAuth` `REST APIs`
+
+**[Live Demo](https://medicare-seven-phi.vercel.app/) · [Source Code](https://github.com/Anurag-3112/MediCare)**
+
+
+---
+
+<p align="left">
+  <i>Building practical software, learning through real-world problems, and continuously improving.</i>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+</p>
+
+## Tech Stack
+
+### Frontend
+
+<p align="left">
+  <img src="Assets/frontend.png" width=100%"/>
+</p>
+
+### Backend
+
+<p align="left">
+  <img src="Assets/backend.png" width="50%"/>
+</p>
+
+### Databases & Caching
+
+<p align="left">
+  <img src="Assets/database.png" width=70%"/>
+</p>
+
+### Messaging & Infrastructure
+
+<p align="left">
+  <img src="Assets/tools.png" width=70%"/>
+</p> 
+
+### Tools
+
+<p align="left">
+  <img src="Assets/tools2.png" width=50%"/>
+</p> 
+
+
+
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+</p>
 
 ## Technologies & Tools
 
@@ -92,7 +164,7 @@ Currently exploring scalable API design and production-grade deployment strategi
 <a href="https://codeforces.com/profile/Anurag-3112">
   <img src="https://img.shields.io/badge/Codeforces-Anurag--3112-blue?logo=codeforces&style=for-the-badge"/>
 </a>
-</p>
+<!-- </p> -->
 
 <table>
 <tr>
@@ -125,18 +197,9 @@ Currently exploring scalable API design and production-grade deployment strategi
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anurag-3112&theme=github)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%" />
 </p>
 
-## Technologies & Tools Used
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,git,github,vscode" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
-</p>
 
 ## Let's Connect
 
@@ -151,7 +214,7 @@ Currently exploring scalable API design and production-grade deployment strategi
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Code;Build;Innovate;Repeat;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Code;Build;Innovate;Repeat;" />
 </p>
 
 
