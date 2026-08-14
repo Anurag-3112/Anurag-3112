@@ -48,7 +48,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </p>
 
-## Full-Stack Developer | MERN Stack | Problem Solver  ![](https://komarev.com/ghpvc/?username=Anurag-3112&color=blue)
+## Full-Stack Developer | MERN | Backend Engineering | Problem Solver  ![](https://komarev.com/ghpvc/?username=Anurag-3112&color=blue)
 I'm a Full-Stack Engineer focused on Backend Architecture, APIs, Scalability and Distributed Systems
 
 - Specializing in the MERN stack (MongoDB, Express, React, Node.js)
