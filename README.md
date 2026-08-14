@@ -98,6 +98,12 @@ A full-stack patient management and appointment scheduling platform designed to 
 
 ## Tech Stack
 
+### Language
+
+<p align="left">
+  <img src="Assets/lang.png" width=50%"/>
+</p>
+
 ### Frontend
 
 <p align="left">
