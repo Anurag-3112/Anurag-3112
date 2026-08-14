@@ -66,7 +66,12 @@ Currently exploring scalable API design and production-grade deployment strategi
 
 ## Technologies & Tools
 
-<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" style="height:30px;"> <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" style="height:30px;"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" style="height:30px;"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" style="height:30px;"> <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" style="height:30px;"> <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" style="height:30px;"> <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" style="height:30px;"> <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" style="height:30px;"> <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" style="height:30px;"> <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" style="height:30px;"> <img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code" style="height:30px;">
+<!-- <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" style="height:30px;"> <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" style="height:30px;"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" style="height:30px;"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" style="height:30px;"> <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" style="height:30px;"> <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" style="height:30px;"> <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" style="height:30px;"> <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" style="height:30px;"> <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" style="height:30px;"> <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" style="height:30px;"> <img src="https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code" style="height:30px;"> -->
+
+<p align="center">
+  <img src="Assets/techstack.png" width=100%"/>
+</p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/ width="100%">
